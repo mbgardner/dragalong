@@ -1,3 +1,6 @@
+// initialize the Shapes collection
+Shapes = new Meteor.Collection('shapes');
+
 if (Meteor.isClient) {
   var layer;
 
