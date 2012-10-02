@@ -1,0 +1,1 @@
+A very simple app that utilizes Kinetic.js to create ten shapes on a canvas which can be dragged around. The position of the dragged shapes is updated to the clients.

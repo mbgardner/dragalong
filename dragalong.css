@@ -1,0 +1,23 @@
+/* CSS declarations go here */
+
+body {
+	width:500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+canvas {
+	border: thin solid;
+	border-color: black;
+}
+
+h1 {
+	text-align: center;
+}
+
+#myCanvas {
+	display: inline-block;
+	overflow: hidden;
+	height: 365px;
+	width: 580px;
+}
